@@ -187,7 +187,7 @@ class Meteor.Files
       insert: ->
         true
       update: ->
-        true
+        false
       remove: ->
         true
     
